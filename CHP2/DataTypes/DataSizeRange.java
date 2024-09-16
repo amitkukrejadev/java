@@ -1,4 +1,4 @@
-import java.lang.*;
+// import java.lang.*;
 
 class DataSizeRange {
 
@@ -10,7 +10,7 @@ class DataSizeRange {
         System.out.println("Float Minimum Value:" + Float.MIN_VALUE);
         System.out.println("Float Maximum Value:" + Float.MAX_VALUE);
         System.out.println("Float Byte Value:" + Float.BYTES);
-        // byte a = 190; Invalid as It Can Only Store Values From -128 to 127 
+        // byte a = 190; Invalid as It Can Only Store Values From -128 to 127
         int a = 190;
         System.out.println("Byte Value:" + a);
     }
