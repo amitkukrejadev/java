@@ -1,6 +1,6 @@
 import java.lang.*;
 
-public class main {
+public class Maths {
     public static void main(String[] args) {
         // Maths Funtions In Java
         System.out.println(Math.min(5, 6));
