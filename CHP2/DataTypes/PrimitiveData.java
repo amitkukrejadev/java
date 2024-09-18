@@ -1,4 +1,3 @@
-package CHP2.DataTypes;
 
 public class PrimitiveData {
     public static void main(String[] args) {
@@ -15,7 +14,7 @@ public class PrimitiveData {
         System.out.println(c);
         System.out.println(d);
         System.out.println(e);
-        Sytem.out.println(f);
+        System.out.println(f);
 
     }
 }
